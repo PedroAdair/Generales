@@ -10,7 +10,10 @@ Para crear un archivo capaz de crear un entorno para Linux y Windows:
 ```
 conda env export --no-builds > environment.yaml 
 ```
-
+Para eliminar un entorno
+```
+conda remove --name Env-Name -all
+```
 ## pip
 Para un archivo de requirements
 ```
