@@ -12,7 +12,7 @@ conda env export --no-builds > environment.yaml
 ```
 Para eliminar un entorno
 ```
-conda remove --name `#0969DA` Env_Name -all
+conda remove --name `rgb(9, 105, 218)`(Env_Name) -all
 ```
 
 
