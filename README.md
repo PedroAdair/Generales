@@ -1,6 +1,9 @@
 # Códigos en consola
-
-
+##Powersell
+```
+git config --global user.email <Agregrar correo>
+git config --global user.name <Agregar UserName >
+```
 ## Conda
 Exportar el archivo de entorno para crear nuevos:
 ```
