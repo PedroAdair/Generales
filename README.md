@@ -16,3 +16,5 @@ Para un archivo de requirements
 ```
 pip freeze > requierements.txt
 ```
+
+https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
