@@ -1,4 +1,4 @@
-# Codigos en consola
+# Códigos en consola
 
 
 ## Conda
