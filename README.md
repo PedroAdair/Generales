@@ -14,6 +14,8 @@ Para eliminar un entorno
 ```
 conda remove --name Env-Name -all
 ```
+
+
 ## pip
 Para un archivo de requirements
 ```
