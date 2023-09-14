@@ -1,5 +1,10 @@
 # Códigos en consola
 
+#Git
+```
+git config --global user.name <UserName>
+git config --global user.email <Email>
+```
 
 ## Conda
 Exportar el archivo de entorno para crear nuevos:
