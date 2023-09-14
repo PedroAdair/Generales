@@ -1,6 +1,6 @@
 # Códigos en consola
 
-#Git
+## Git
 ```
 git config --global user.name <UserName>
 git config --global user.email <Email>
