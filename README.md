@@ -7,6 +7,11 @@ git config --global user.email <Email>
 ```
 
 ## Conda
+
+Crear un entorno desde un archivo
+```
+conda env create -f srs-camera-system.yml
+```
 Exportar el archivo de entorno para crear nuevos:
 ```
 conda env export > environment.yml  
