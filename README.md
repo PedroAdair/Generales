@@ -10,7 +10,7 @@ git config --global user.email <Email>
 
 Crear un entorno desde un archivo yml o yaml 
 ```
-conda env create -f <Nombre_archivo.yaml>
+conda env create -f <Nombre_archivo.yaml> 
 ```
 Exportar el archivo de entorno para crear nuevos:
 ```
