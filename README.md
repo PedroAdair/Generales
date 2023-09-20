@@ -7,7 +7,7 @@ git config --global user.email <Email>
 ```
 
 ## Conda
-Crear un entorno con una version especial de python
+Crear un entorno con una version especial de python 
 ```
 conda create -n myenv python=3.9
 ```
