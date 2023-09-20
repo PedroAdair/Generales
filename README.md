@@ -7,7 +7,10 @@ git config --global user.email <Email>
 ```
 
 ## Conda
-
+Crear un entorno con una version particular de python
+```
+conda create -n myenv python=3.9
+```
 Crear un entorno desde un archivo yml o yaml 
 ```
 conda env create -f <Nombre_archivo.yaml> 
