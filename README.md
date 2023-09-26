@@ -56,9 +56,13 @@ conda remove --name  <Env_Name> --all
  `rgb(9, 105, 218)`
 
 ## pip
-Para un archivo de requirements
+Para crear un archivo de requirements
 ```
 pip freeze > requierements.txt
+```
+Para creat un entorno a partir de un archivo de requisitos en formato *txt*
+```
+pip install -r /path/to/requirements.txt
 ```
 
 https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
