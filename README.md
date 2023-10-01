@@ -30,8 +30,12 @@ Finalmente,
 ```
 git push
 ```
-
-
+Para realizar el merge de dos ramas:
+1. Confirmamos el nombre de la rama destino (sobre la cual haremos la fusion, ejemplo **main** o **master**)
+```
+git checkout <Rama Destino>
+```
+2. 
 ## Conda
 Crear un entorno con una version especial de python 
 ```
