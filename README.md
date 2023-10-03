@@ -35,6 +35,9 @@ Para realizar el merge de dos ramas:
 ```
 git checkout <Rama Destino>
 ```
+
+
+
 2. 
 ## Conda
 Crear un entorno con una version especial de python 
