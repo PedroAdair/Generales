@@ -1,4 +1,4 @@
-#Comandos en conda 
+# Comandos en conda 
 
 Crear un entorno con una version especial de python 
 ```
