@@ -20,3 +20,4 @@ Para eliminar un entorno
 ```
 conda remove --name  <Env_Name> --all
 ```
+
