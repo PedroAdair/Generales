@@ -1,2 +1,3 @@
 #Comandos en conda 
 conda env export > environment.yml # environment puede cambiar de 
+xfsdf
