@@ -53,6 +53,14 @@ Exportar el archivo de entorno para crear nuevos:
 ```
 conda env export > environment.yml  
 ```
+Para saber los nombres de los entornos disponibles en nuestro ordenador
+```
+conda env list
+```
+Una vez sabemos el nombre del entorno que queremos activar, realizamos el siguiente comando
+```
+conda activate <Nombre_Entorno> 
+```
 Para crear un archivo capaz de crear un entorno para Linux y Windows:
 ```
 conda env export --no-builds > environment.yaml 
