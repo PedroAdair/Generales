@@ -21,3 +21,5 @@ Para eliminar un entorno
 conda remove --name  <Env_Name> --all
 ```
 
+adf fd g er er gea re t ewrwe
+
