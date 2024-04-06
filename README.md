@@ -1,6 +1,8 @@
 # Códigos en consola
 
- 
+## Instalar miniconda
+https://docs.anaconda.com/free/miniconda/#quick-command-line-install
+
 ## Git
 ```
 git config --global user.name <UserName>
