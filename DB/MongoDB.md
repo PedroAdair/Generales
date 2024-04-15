@@ -1,5 +1,11 @@
 # Mongo DB
-
+Crear una coneccion local en MongoDb apoyandonos de Docker
+```
+docker run -p 27023:27017 --name local-mongo3 -d mongo
+```
+```
+mongodb://localhost:27023/
+```
 ## PyMongo
 MongoDb es un sistema de base de datos no estructurada (NoSQL), en el caso de Python se tiene uso de la libreria  [PyMongo](https://github.com/mongodb/mongo-python-driver). la cual contiene su instalacion mediante pip.
 ```
