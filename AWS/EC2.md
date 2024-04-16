@@ -60,3 +60,19 @@ git --version
 git config — global user.name “Your Name”
 git config — global user.email “your_email@example.com”
 ```
+
+### Instalar Tmux en la EC2
+
+tmux permite tener multiples terminales abierta, dividir la terminal en pestañas y enn general tener un mejor control de las temrinales.
+
+```
+sudo yum install tmux
+```
+
+A continuacion algunos ejemplos:
+
+
+| Comando | Descripcion             | Ejemplo   |
+|---------|-------------------------|-----------|
+| tmux ls | Listar sesiones activas | tmux ls   |
+| tmux attach-session -t *name_of sesssion* | acceder a una session conociendo su nombre | tmux attach-session -t API|
